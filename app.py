@@ -5,6 +5,6 @@ app = Flask(__name__)
 def hello_world():
     return 'Hello Dosto, welcome to DevOps Zero To Hero (Junoon  Batch 9)'
 
-@app.route('/health')
-def health():
-    return 'Server is up and running'
+991d4d53a5a9 
+
+
